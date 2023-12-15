@@ -17,7 +17,7 @@ moca_total: MoCA total
 ravlt_dr: RAVLT delayed recall  
 gds15_total: Geriatric Depression Scale 15 total  
 gds30_total: Geriatric Depression Scale 30 total  
-gds_d: Geriatric Depression Scale depressed (yes = 0/no = 1)	  
+gds_d: Geriatric Depression Scale depressed (yes = 0; no = 1)	  
 mfi_total: Multidimensional Fatigue Inventory total  
 adsct: Alzheimer's Disease Signature Cortical Thicnkess  
 adsct_d: Alzheimer's Disease Signature Cortical Thicnkess	(neurodegeneration present = 1; absent = 2)  
